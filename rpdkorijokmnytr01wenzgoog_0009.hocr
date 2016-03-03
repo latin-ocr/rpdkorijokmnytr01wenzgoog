@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rpdkorijokmnytr01wenzgoog_0009.png"; bbox 0 0 3416 5313; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1117 1987 1926 2054">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1117 1987 1926 2054">
+     <span class='ocr_line' id='line_1_1' title="bbox 1117 1987 1926 2054; baseline 0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 1117 1987 1926 2054; x_wconf 86' lang='lat' dir='ltr'>MONUMENTA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 672 2125 2347 2275">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 672 2125 2347 2275">
+     <span class='ocr_line' id='line_1_2' title="bbox 672 2125 2347 2275; baseline -0.003 -2"><span class='ocrx_word' id='word_1_2' title='bbox 672 2125 1498 2275; x_wconf 62' lang='lat' dir='ltr'><strong>HUNGARIAE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1563 2191 2347 2275; x_wconf 77' lang='lat' dir='ltr'>HISTORIOA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1366 2419 1672 2427">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1366 2419 1672 2427">
+     <span class='ocr_line' id='line_1_3' title="bbox 1366 2419 1672 2427; baseline 0.003 -2"><span class='ocrx_word' id='word_1_4' title='bbox 1366 2419 1672 2427; x_wconf 49' lang='lat' dir='ltr'><strong>wm-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1219 2541 1836 2598">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1219 2541 1836 2598">
+     <span class='ocr_line' id='line_1_4' title="bbox 1219 2541 1836 2598; baseline -0.003 -1"><span class='ocrx_word' id='word_1_5' title='bbox 1219 2541 1836 2598; x_wconf 81' lang='lat' dir='ltr'>DIPLOMATARIA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1470 2729 1569 2803">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1470 2729 1569 2803">
+     <span class='ocr_line' id='line_1_5' title="bbox 1470 2729 1569 2803; baseline -0.01 0"><span class='ocrx_word' id='word_1_6' title='bbox 1470 2729 1569 2803; x_wconf 92' lang='lat' dir='ltr'><strong>X.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
